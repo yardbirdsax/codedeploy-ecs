@@ -1,3 +1,9 @@
+# This repository has been archived
+
+Please see the new location at https://github.com/yardbirdsax/terraform-aws-ecs-codedeploy for further updates.
+
+---
+
 # Using CodeDeploy with ECS
 
 This repo documents my learning how to use ECS with AWS CodeDeploy.
